@@ -1,4 +1,4 @@
 # One More Dark Theme
 
-Another touch on legendary OneDark
+Another touch on dark theme
 
