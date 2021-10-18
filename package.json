@@ -20,7 +20,12 @@
             {
                 "label": "One More Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/one-more-dark-color-theme.json"
+                "path": "./themes/one-more-dark.json"
+            },
+            {
+                "label": "One More Dark Neon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-more-dark-neon.json"
             }
         ]
     }
