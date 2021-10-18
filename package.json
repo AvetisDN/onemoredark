@@ -1,0 +1,22 @@
+{
+    "name": "onemoredark",
+    "publisher": "Avetis",
+    "displayName": "OneMoreDark",
+    "description": "One More Dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One More Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-more-dark-color-theme.json"
+            }
+        ]
+    }
+}
